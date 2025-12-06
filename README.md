@@ -1,17 +1,17 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>kidsWeb/home</title>
-    <link rel="stylesheet" type="text/css" href="kidsweb/style.css">
+    
+    <link rel="stylesheet" type="text/css" href="KidsWeb/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap" rel="stylesheet">
     <meta name="google-site-verification" content="Y-VVeHSkqj9c1LL_fbXdMetvl7Ur9QVpPH-qxBETjm0" />
 </head>
 <body >
-    <img src="asset/background.svg" class="background">  -->
+    <img src="KidsWeb/asset/background.svg" class="background">  -->
     <div id="rest" class="rest">
         <h2>Istirahat dulu yuk!</h2>
-        <img src="asset/night.png">
+        <img src="KidsWeb/asset/night.png">
         <p>
             Istirahat dulu yuk, <br>
             supaya mata kita tidak lelah, <br>
@@ -19,11 +19,11 @@
         </p> 
     </div>
     <header>
-        <img src="asset/logo website3.svg" class="himg">
-        <a class="isi" href="info_menarik.html">info menarik </a>
-        <a class="isi" href="Anak_Sehat.html">Anak Sehat </a>
-        <a class="isi" href="For_kids.html">Untuk Anak  </a>
-        <a class="isi" href="For_parents.html">Untuk Orang tua  </a>
+        <img src="KidsWeb/asset/logo website3.svg" class="himg">
+        <a class="isi" href="KidsWeb/info_menarik.html">info menarik </a>
+        <a class="isi" href="KidsWeb/Anak_Sehat.html">Anak Sehat </a>
+        <a class="isi" href="KidsWeb/For_kids.html">Untuk Anak  </a>
+        <a class="isi" href="KidsWeb/For_parents.html">Untuk Orang tua  </a>
         
         
     </header>
@@ -32,7 +32,7 @@
    
     <div id="ingat" class="ingat">
         <h2>Peringatan!!</h2>
-        <img src="asset/warning.png" class="inga">
+        <img src="KidsWeb/asset/warning.png" class="inga">
         <p>
             anak anak harus minta ijin
             orangtua/wali <br> sebelum mengakses internet,
@@ -122,7 +122,7 @@
             <a href="#">Lihat</a>
         </Div>
 
-        <script src="sistem.js"></script>
+        <script src="KidsWeb/sistem.js"></script>
     </main>
     <footer>
         <div class="more">
